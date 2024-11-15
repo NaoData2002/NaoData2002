@@ -2,6 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG42NGhsaW5odzNnODRtOXMwbnpsNDF1ODZsYmJnZmN0NXhveXFnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYHz66JfYHbBtZXjHy/giphy.webp" />
 
+
 ### 👨🏻‍💻 ***About me***
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
