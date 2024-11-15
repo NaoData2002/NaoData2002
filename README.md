@@ -6,8 +6,10 @@
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
+  - C/C++
+  - NASM
+  - GIT
+  - AWS
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
@@ -54,9 +56,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </a>
 <a href="" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-<a href="" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
 <a href="">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
